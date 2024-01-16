@@ -38,7 +38,7 @@ You can use this repository in any Gradle project.
 repositories {
     maven {
         name = "personal-maven-repository-releases"
-        setUrl("https://raw.githubusercontent.com/[organization name or user name]/[repository name]/[branch name]/repository/releases")
+        setUrl("https://raw.githubusercontent.com/[organization name or username]/[repository name]/[branch name]/repository/releases")
     }
     maven {
         name = "personal-maven-repository-snapshots"
