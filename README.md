@@ -1,6 +1,6 @@
 # maven-repository-template
 
-[![GitHub license](https://img.shields.io/github/license/HighCapable/maven-repository-template?color=blue)](https://github.com/HighCapable/maven-repository-template/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/HighCapable/maven-repository-template?color=blue&style=flat-square)](https://github.com/HighCapable/maven-repository-template/blob/main/LICENSE)
 
 This is a simple Maven repository by using GitHub to manage dependencies.
 
